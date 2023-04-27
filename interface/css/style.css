@@ -1,0 +1,49 @@
+/* Meus estilos */
+
+body {
+    background: #FFF;
+}
+
+.decoration {
+    padding: 10px;
+    text-align: center;
+    background: #dddddd;
+}
+
+.decoration img {
+    width: 150px;
+}
+
+.header-title {
+    text-align: center;
+    margin: 10px;
+}
+
+.header-text {
+    text-align: center;
+}
+
+.box {
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+}
+
+.alignment {
+    vertical-align: middle;
+}
+
+.catalogo {
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.input-copy {
+    border: white;
+}
+
+.footer p {
+    background-color: #1B3558;
+    padding: 15px;
+    margin: auto;
+}
