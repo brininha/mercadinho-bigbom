@@ -14,7 +14,7 @@
 ![Gif]()
 
 ### Read - Listagem e filtro dos produtos
-![Gif]()
+![Gif](./gifs/bigbom-gif.gif)
 
 ### Update - Alteração dos produtos
 ![Gif]()
