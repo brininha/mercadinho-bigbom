@@ -14,7 +14,7 @@
 ![Gif]()
 
 ### Read - Listagem e filtro dos produtos
-![Gif](./gifs/bigbom-gif.gif)
+<center><img width="400px" src= "./gifs/bigbom-gif.gif"></center>
 
 ### Update - Alteração dos produtos
 ![Gif]()
@@ -23,29 +23,32 @@
 ![Gif]()
 ## Guia de uso
 
-Tenha instalado na sua máquina:
+1. Tenha instalado na sua máquina:
 - [Node.js](https://nodejs.org/en/download)
 - [MongoDB](https://www.mongodb.com/try/download/community)
 
-Abra o terminal e acesse a pasta do projeto:
+2. Clone o repositório.
+
+3. Abra o terminal e acesse a pasta crud:
 ```bash
   cd aqui-vai-o-caminho
 ```
-Clone o repositório na sua máquina:
 
-Instale todas as dependências necessárias para a execução digitando a seguinte instrução:
+4. Instale todas as dependências necessárias para a execução digitando a seguinte instrução:
 ```bash
   npm install
 ```
-Depois basta inicializar através do comando:
+
+5. Depois basta inicializar através do comando:
 ```bash
   npm run dev
 ```
-Se quiser ter o projeto com produtos cadastrados, importe o arquivo "products.json". O [MongoDB Compass](https://www.mongodb.com/try/download/compass) facilita muito esse processo, seu uso é recomendado.
 
-![Gif](./gifs/import-gif.gif)
+6. Se quiser ter o projeto com produtos cadastrados, importe o arquivo "products.json". O [MongoDB Compass](https://www.mongodb.com/try/download/compass) facilita muito esse processo, seu uso é recomendado.
 
-Por fim, abra o arquivo "index.html" na pasta chamada interface.
+<center><img width="400px" src= "./gifs/import-gif.gif"></center>
+<br>
+7. Por fim, abra o arquivo "index.html" na pasta chamada interface.
 
 E voilà! 👌
 
