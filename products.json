@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "64415573a6a99bc0293b4728"
+  },
+  "nome": "Brócolis Ninja 250g",
+  "categoria": "Hortifruti",
+  "qtde": 40,
+  "valor": 9.97,
+  "img": "https://superprix.vteximg.com.br/arquivos/ids/207476-292-292/BROCOLIS-DELIX-.png?v=637853674825900000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64415700a6a99bc0293b472d"
+  },
+  "nome": "Bolo de Fubá com Goiabada 1kg",
+  "categoria": "Padaria",
+  "qtde": 5,
+  "valor": 27.9,
+  "img": "https://panutti.com.br/arquivos/produtos/imagens_adicionais/Bolo%20Seco%20Fub%C3%A1%20com%20Goiabada%20(1)-45.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442e34a87dd96024b6fcc7d"
+  },
+  "nome": "Queijo Frescal Polenghi 250g",
+  "categoria": "Frios e Laticínios",
+  "qtde": 50,
+  "valor": 16.79,
+  "img": "https://s3-sa-east-1.amazonaws.com/bluesoft-erp/reimberg/ecommerce/produtos/fotos/8ef2fbc7-1750-4bc6-9e41-30c84f8cc553/foto_large.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442e42d87dd96024b6fcc84"
+  },
+  "nome": "Café em Pó Tradicional Pilão 500g",
+  "categoria": "Mercearia",
+  "qtde": 120,
+  "valor": 22.99,
+  "img": "https://cafepilao.vteximg.com.br/arquivos/ids/157244/CAFE-TORRADO-E-MOIDO-A-VACUO-TRADICIONAL-500G.png?v=637486617108970000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442eb4487dd96024b6fcc89"
+  },
+  "nome": "Suco de Goiaba Shefa 200ml",
+  "categoria": "Mercearia",
+  "qtde": 250,
+  "valor": 1.75,
+  "img": "https://www.shefa.com.br/wp-content/uploads/2017/11/banner_goiaba_200ml.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442eca387dd96024b6fcc8e"
+  },
+  "nome": "Picanha Fresca 1kg",
+  "categoria": "Carnes",
+  "qtde": 25,
+  "valor": 89.98,
+  "img": "https://cortedeourocarnes.com.br/wp-content/uploads/2020/05/picanha-fresca.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6442ed8f87dd96024b6fcc93"
+  },
+  "nome": "Danoninho Morango 320g",
+  "categoria": "Frios e Laticínios",
+  "qtde": 110,
+  "valor": 10.49,
+  "img": "https://s3-sa-east-1.amazonaws.com/bluesoft-erp/alabarce/ecommerce/produtos/fotos/3f82d5fd-15f6-4585-8261-89ec76ac077f/foto_large.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6443f76428394ebcf6c95e7f"
+  },
+  "nome": "Cotonetes Hastes Flexíveis 100 unidades",
+  "categoria": "Limpeza",
+  "qtde": 450,
+  "valor": 2.49,
+  "img": "data:image/jpeg;base64,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",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6443f81228394ebcf6c95e84"
+  },
+  "nome": "Pão de Mel Panco 500g",
+  "categoria": "Padaria",
+  "qtde": 300,
+  "valor": 8.79,
+  "img": "https://panco.com.br/images/produtos/opt-png/biscoito/PaoMel500_2.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6443fc4d28394ebcf6c95e9a"
+  },
+  "nome": "Maçã Turma da Mônica 1kg",
+  "categoria": "Hortifruti",
+  "qtde": 50,
+  "valor": 19.99,
+  "img": "https://camilohortifruti.com.br/wp-content/uploads/2022/06/maca_turma_da_monica-thegem-blog-timeline-large.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6443fd6128394ebcf6c95e9d"
+  },
+  "nome": "Galinha do Sítio Congelada 1kg",
+  "categoria": "Carnes",
+  "qtde": 35,
+  "valor": 8.79,
+  "img": "https://static.vecteezy.com/ti/fotos-gratis/t2/7950984-frango-isolar-em-fundo-branco-gratis-foto.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6444072e28394ebcf6c95ea8"
+  },
+  "nome": "Sonho de Creme",
+  "categoria": "Padaria",
+  "qtde": 20,
+  "valor": 4.99,
+  "img": "https://us-southeast-1.linodeobjects.com/storage/peruzzo/media/uploads/produto/padaria_sonho_creme_kg_f459ae4e-1f1a-408f-8c03-9ab2f7ce42bb.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6444088b28394ebcf6c95eaf"
+  },
+  "nome": "Arroz Branco Camil 5kg",
+  "categoria": "Mercearia",
+  "qtde": 100,
+  "valor": 23.49,
+  "img": "data:image/jpeg;base64,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",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644409f528394ebcf6c95eb4"
+  },
+  "nome": "Manteiga em Lata Aviação 200g",
+  "categoria": "Frios e Laticínios",
+  "qtde": 50,
+  "valor": 16.15,
+  "img": "https://rafasupervarejao.com.br/37848/7896331100051-manteiga-com-sal-lata-aviacao-200g.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64440bc528394ebcf6c95ebb"
+  },
+  "nome": "Sabonete Candy Giovanna Baby 90g",
+  "categoria": "Limpeza",
+  "qtde": 50,
+  "valor": 4.9,
+  "img": "https://m.media-amazon.com/images/I/71dasbzdIkL._AC_SL1500_.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64440ca228394ebcf6c95ecd"
+  },
+  "nome": "Melancia Rajada 1 unidade",
+  "categoria": "Hortifruti",
+  "qtde": 25,
+  "valor": 14.9,
+  "img": "https://plantidias.pt/media/catalog/product/cache/2/thumbnail/550x450/9df78eab33525d08d6e5fb8d27136e95/i/s/istock_000009956580_full_copy.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6445568829841e952c23e5f3"
+  },
+  "nome": "Amaciante Concentrado Brisa de Verão Downy 500ml",
+  "categoria": "Limpeza",
+  "qtde": 60,
+  "valor": 12.49,
+  "img": "https://ibassets.com.br/ib.item.image.large/l-9abb87b8804548d1b965e54753e49bce.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6445570329841e952c23e5f8"
+  },
+  "nome": "Macarrão Talharim Renata 500g",
+  "categoria": "Mercearia",
+  "qtde": 110,
+  "valor": 9.78,
+  "img": "https://trimais.vteximg.com.br/arquivos/ids/1008172-1000-1000/foto_original.jpg?v=637395834760500000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6445583929841e952c23e5ff"
+  },
+  "nome": "Peixe Fresco Porquinho 800g",
+  "categoria": "Carnes",
+  "qtde": 35,
+  "valor": 19.9,
+  "img": "https://cdn.shopify.com/s/files/1/0550/3146/3994/products/porquinhofrito.png?v=1667051085",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6445590e29841e952c23e60c"
+  },
+  "nome": "Baguete Recheada de Frango 1 unidade",
+  "categoria": "Padaria",
+  "qtde": 15,
+  "valor": 11.9,
+  "img": "https://s.cornershopapp.com/product-images/1947116.png?versionId=WaWey2qIDenBNhMPKznq1NjKJhTsHNAM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644559f929841e952c23e614"
+  },
+  "nome": "Leite Vegetal de Amêndoa Nuts 1L",
+  "categoria": "Frios e Laticínios",
+  "qtde": 20,
+  "valor": 8.9,
+  "img": "https://casaspedro.vteximg.com.br/arquivos/ids/171059-1000-1000/bebida-de-amendoa-original-zero-nuts-1l.png?v=637678467704900000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64455a9929841e952c23e61d"
+  },
+  "nome": "Mamão Papaya 1 unidade",
+  "categoria": "Hortifruti",
+  "qtde": 60,
+  "valor": 8.79,
+  "img": "https://media.soujusto.com.br/products/papaya.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64455b7529841e952c23e629"
+  },
+  "nome": "Kit Colgate Luminous White",
+  "categoria": "Limpeza",
+  "qtde": 25,
+  "valor": 21.9,
+  "img": "https://www.drogariaminasbrasil.com.br/media/product/0b4/kit-creme-dental-colgate-luminous-white-com-3-unidades-enxaguante-bucal-250ml-b7c.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64458a40c687cbd03cbc73f7"
+  },
+  "nome": "Feijão Branco Kicaldo 1kg",
+  "categoria": "Mercearia",
+  "qtde": 90,
+  "valor": 14.8,
+  "img": "https://propao.agilecdn.com.br/4496_1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64458b05c687cbd03cbc73fe"
+  },
+  "nome": "Alcatra Bovina Fatiada 1kg",
+  "categoria": "Carnes",
+  "qtde": 20,
+  "valor": 49.9,
+  "img": "https://centralmaxsupermercados.com.br/imagens_site/561.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64458bcdc687cbd03cbc7405"
+  },
+  "nome": "Torta de Limão Deliciosa 1 fatia",
+  "categoria": "Padaria",
+  "qtde": 10,
+  "valor": 7.99,
+  "img": "https://img.elo7.com.br/product/zoom/E639EB/torta-de-limao-de-500-gramas-limao.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64458d6dc687cbd03cbc740a"
+  },
+  "nome": "Presunto Sadia 3.5kg",
+  "categoria": "Frios e Laticínios",
+  "qtde": 10,
+  "valor": 84.05,
+  "img": "https://media.cotabest.com.br/media/sku/presunto-sem-capa-peca-por-kg-sadia-kg.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64458e20c687cbd03cbc740f"
+  },
+  "nome": "Beterraba 1kg",
+  "categoria": "Hortifruti",
+  "qtde": 50,
+  "valor": 5.99,
+  "img": "https://www.proativaalimentos.com.br/image/cache/catalog/img_prod/beterraba[1]-1000x1000.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64458f14c687cbd03cbc741b"
+  },
+  "nome": "Desinfetante Perfumado Uau 1L",
+  "categoria": "Limpeza",
+  "qtde": 45,
+  "valor": 4.79,
+  "img": "https://us-southeast-1.linodeobjects.com/storage/supersantafe/media/uploads/produto/limp_uau_perf_brisa_e_fresco_a4891113-f5e6-4639-a4a1-d47e28d75a49.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64458faec687cbd03cbc7421"
+  },
+  "nome": "Guaraná Jesus Lata 310ml",
+  "categoria": "Mercearia",
+  "qtde": 30,
+  "valor": 2.9,
+  "img": "https://cf.shopee.com.br/file/714aa7a02b40af1b194c74f287ea2ab7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64459097c687cbd03cbc742c"
+  },
+  "nome": "Tulipa de Frango 1kg",
+  "categoria": "Carnes",
+  "qtde": 25,
+  "valor": 25.9,
+  "img": "https://s.cornershopapp.com/product-images/3218220.jpg?versionId=SUAam5BBLVzNLS_KcOkU3y6lFeL63Cwk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64459155c687cbd03cbc7436"
+  },
+  "nome": "Pão Sovado Panco 500g",
+  "categoria": "Padaria",
+  "qtde": 15,
+  "valor": 11.89,
+  "img": "https://media.cotabest.com.br/media/sku/pao-sovado-pacote-500g-panco-pct.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6445934cc687cbd03cbc743f"
+  },
+  "nome": "Requeijão Cremoso Crioulo 200g",
+  "categoria": "Frios e Laticínios",
+  "qtde": 45,
+  "valor": 11.25,
+  "img": "data:image/jpeg;base64,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",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644593f6c687cbd03cbc7446"
+  },
+  "nome": "Abóbora Moranga 1kg",
+  "categoria": "Hortifruti",
+  "qtde": 12,
+  "valor": 4.99,
+  "img": "https://media.cotabest.com.br/media/sku/abobora-moranga-por-kg-dois-cunhados-kg.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644594b1c687cbd03cbc744b"
+  },
+  "nome": "Pacote de Algodão em Bolas Cotton",
+  "categoria": "Limpeza",
+  "qtde": 100,
+  "valor": 3.75,
+  "img": "https://lojamaurobijouterias.com.br/image/cache/catalog/Acesss%C3%B3rio/bolas-de-algod%C3%A3o-cooton-maurobijouterias-900x900.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64459539c687cbd03cbc7450"
+  },
+  "nome": "Geleia Framboesa Queensberry 280g",
+  "categoria": "Mercearia",
+  "qtde": 10,
+  "valor": 25.99,
+  "img": "https://prezunic.vtexassets.com/arquivos/ids/160045-800-auto?v=638078262587200000&width=800&height=auto&aspect=true",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6448230998076e937ca92225"
+  },
+  "nome": "Barriga Suína 1kg",
+  "categoria": "Carnes",
+  "qtde": 20,
+  "valor": 31.9,
+  "img": "https://www.maiscarnesuina.com.br/wp-content/uploads/2015/09/pancetta_barriga-750x435.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644824a898076e937ca9222d"
+  },
+  "nome": "Pudim da Casa Leite Condensado 1kg",
+  "categoria": "Padaria",
+  "qtde": 5,
+  "valor": 34.9,
+  "img": "https://img.sitemercado.com.br/produtos/1b39270cd07420db2a460435d8e51f82924c65f2892eacc090c70d5e3f28c027_full.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644826c798076e937ca92239"
+  },
+  "nome": "Leite Integral Leitíssimo 1L",
+  "categoria": "Frios e Laticínios",
+  "qtde": 130,
+  "valor": 5.99,
+  "img": "https://statics.angeloni.com.br/super/files/produtos/3046854/3046854_1_zoom.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64482bac98076e937ca92240"
+  },
+  "nome": "Banana Nanica 1kg",
+  "categoria": "Hortifruti",
+  "qtde": 150,
+  "valor": 3.25,
+  "img": "https://www.livres.eco.br/wp-content/uploads/2020/05/Banana-Nanica.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64482cc898076e937ca9224a"
+  },
+  "nome": "Papel Higiênico Folha Tripla Supreme Neve 12 unidades",
+  "categoria": "Limpeza",
+  "qtde": 60,
+  "valor": 21.9,
+  "img": "https://http2.mlstatic.com/D_NQ_NP_799299-MLA43466643460_092020-O.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64482e0a98076e937ca92251"
+  },
+  "nome": "Vinho Tinto Giacondi Chianti 750ml",
+  "categoria": "Mercearia",
+  "qtde": 15,
+  "valor": 100.9,
+  "img": "https://www.emporiosaborecia.com.br/image/cache/catalog/produtos/vinhos/vinho-tinto-giacondi-chianti-1000x1000.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644abd4aeeb9bc3c15ad6518"
+  },
+  "nome": "Contra Filé Bovino 1kg",
+  "categoria": "Carnes",
+  "qtde": 10,
+  "valor": 54.9,
+  "img": "https://www.acouguebomboi.com.br/wp-content/uploads/2021/04/contra-file-bomboi-mercado-de-carnes-rio-de-janeiro.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644abde8eeb9bc3c15ad651e"
+  },
+  "nome": "Pão Francês 1 unidade",
+  "categoria": "Padaria",
+  "qtde": 100,
+  "valor": 0.6,
+  "img": "https://hiperideal.vteximg.com.br/arquivos/ids/181563/82929.jpg?v=637248333767400000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644abf51eeb9bc3c15ad6526"
+  },
+  "nome": "Margarina com Sal Becel 250g",
+  "categoria": "Frios e Laticínios",
+  "qtde": 40,
+  "valor": 5.39,
+  "img": "https://ibassets.com.br/ib.item.image.big/b-863b8f33289b46278aa2e3751f34bb4f.jpeg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ac03aeeb9bc3c15ad652d"
+  },
+  "nome": "Batata Inglesa 1kg",
+  "categoria": "Hortifruti",
+  "qtde": 150,
+  "valor": 3.98,
+  "img": "https://mercadoorganico.com/6428-large_default/batata-inglesa-organica-500g-osm.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ac142eeb9bc3c15ad6535"
+  },
+  "nome": "Sabão em Pó Gota Limpa 5kg",
+  "categoria": "Limpeza",
+  "qtde": 70,
+  "valor": 7.35,
+  "img": "https://d13z5xavn0qtt9.cloudfront.net/Custom/Content/Products/10/70/107043_sabao-em-po-1kg-gota-limpa-1143_z1_637762124712154627.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ac26feeb9bc3c15ad653b"
+  },
+  "nome": "Açúcar Refinado União 1kg",
+  "categoria": "Mercearia",
+  "qtde": 100,
+  "valor": 6.1,
+  "img": "https://protelimp.com.br/wp-content/uploads/a%C3%A7ucar-uni%C3%A3o.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ac353eeb9bc3c15ad654a"
+  },
+  "nome": "Filé de Tilápia 1kg",
+  "categoria": "Carnes",
+  "qtde": 15,
+  "valor": 49.9,
+  "img": "https://oceanicapescados.com.br/wp-content/uploads/2021/01/file-de-tilapia-cru-peixe-isolado-no-fundo-branco-para-cozinhar-alimentos-file-de-peixe-fresco-fatiado-para-bife-ou-salada_73523-33231-3a1cd77f5e8520556f16069930635067-1024-1024.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ac783eeb9bc3c15ad6573"
+  },
+  "nome": "Croissant de Presunto e Queijo 1 unidade",
+  "categoria": "Padaria",
+  "qtde": 10,
+  "valor": 4.49,
+  "img": "https://www.aryzta.com.br/wp-content/uploads/2017/07/croissant_presunto_e_mussarela_aberto.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ac8d8eeb9bc3c15ad657c"
+  },
+  "nome": "Queijo Mussarela Tirolez 100g",
+  "categoria": "Frios e Laticínios",
+  "qtde": 35,
+  "valor": 3.99,
+  "img": "https://cdn.shopify.com/s/files/1/0946/5368/products/186303_06979_2048x.jpg?v=1441116145",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ac96feeb9bc3c15ad6581"
+  },
+  "nome": "Alface Crespa Orgânica 1 unidade",
+  "categoria": "Hortifruti",
+  "qtde": 80,
+  "valor": 3.7,
+  "img": "data:image/jpeg;base64,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",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644ac9fdeeb9bc3c15ad6586"
+  },
+  "nome": "Bucha de Cozinha 1 unidade",
+  "categoria": "Limpeza",
+  "qtde": 100,
+  "valor": 1.5,
+  "img": "https://images.tcdn.com.br/img/img_prod/426021/kit_10_esponjas_de_cozinha_bucha_de_lavar_louca_economica_26873_2_0014a011b6197ccb1e69d259bc276fd1.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644aed1c69a59a1e2275fd8e"
+  },
+  "nome": "Óleo de Soja Soya 900ml",
+  "categoria": "Mercearia",
+  "qtde": 65,
+  "valor": 8.99,
+  "img": "https://naturaldaterra.com.br/media/catalog/product/1/2/124608---7891107101621---oleo-soja-soya-900ml.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644aee7869a59a1e2275fd95"
+  },
+  "nome": "Linguiça Toscana 1kg",
+  "categoria": "Carnes",
+  "qtde": 30,
+  "valor": 18.49,
+  "img": "https://naturaldaterra.com.br/media/catalog/product/1/1/112625-linguica-toscana-resfriada-seara-unidade.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644aefae69a59a1e2275fd9c"
+  },
+  "nome": "Vanderléia Deliciosa 1 unidade",
+  "categoria": "Padaria",
+  "qtde": 15,
+  "valor": 11.9,
+  "img": "https://s.cornershopapp.com/product-images/2109366.jpg?versionId=KbjPUX6hD0mUFB3MauC2XnkH7E.ZSXzC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644af0fb69a59a1e2275fda5"
+  },
+  "nome": "Leite Fermentado Yakult 80g",
+  "categoria": "Frios e Laticínios",
+  "qtde": 90,
+  "valor": 2.5,
+  "img": "https://emporiokaminski.com.br/wp-content/uploads/2020/06/yakult-80g.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644af17469a59a1e2275fdaa"
+  },
+  "nome": "Abacaxi 1 unidade",
+  "categoria": "Hortifruti",
+  "qtde": 35,
+  "valor": 9.49,
+  "img": "https://www.bernardaoemcasa.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/a/b/abacaxi_6.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644c22d6a6654fc3cdb0c9ef"
+  },
+  "nome": "Desodorante Aerosol Dove 150ml",
+  "categoria": "Limpeza",
+  "qtde": 50,
+  "valor": 18.99,
+  "img": "https://www.drogariaminasbrasil.com.br/media/product/a17/desodorante-aerosol-dove-original-150ml-fb6.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644c24a6a6654fc3cdb0c9f7"
+  },
+  "nome": "Coxa com Sobrecoxa de Frango 1kg",
+  "categoria": "Carnes",
+  "qtde": 20,
+  "valor": 18.7,
+  "img": "https://images.tcdn.com.br/img/img_prod/765092/coxa_c_sobre_coxa_frango_preco_por_kg_228_1_20200326160615.jpg",
+  "__v": 0
+}]
