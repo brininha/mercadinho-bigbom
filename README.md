@@ -45,12 +45,12 @@
   npm run dev
 ```
 
-6. Se quiser ter o projeto com produtos cadastrados, importe o arquivo "products.json". O [MongoDB Compass](https://www.mongodb.com/try/download/compass) facilita muito esse processo, seu uso é recomendado.
+6. Se quiser ter o projeto com produtos cadastrados, importe o arquivo "products.json" na collection products. O [MongoDB Compass](https://www.mongodb.com/try/download/compass) facilita muito esse processo, seu uso é recomendado.
 
 <div align="center"><img width="500px" src= "./gifs/import-gif.gif"></div>
 <br>
 7. Por fim, abra o arquivo "index.html" na pasta chamada interface.
-
+<br><br>
 E voilà! 👌
 
 
