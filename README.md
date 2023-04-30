@@ -1,5 +1,5 @@
 
-# Mercadinho Big Bom 🛒
+<div align="center"><img width="500px" src= "./letreiro.png"></div>
 
 ## Recursos utilizados:
 - Node.js
