@@ -5,7 +5,7 @@
 - Node.js
 - MongoDB
 - Express.js
-- Mongoose
+- Typegoose
 - HTML, CSS e JS
 
 ## CRUD:
